@@ -1,0 +1,10 @@
+# NEVER commit malware traffic or archives
+*.pcap
+*.pcapng
+*.cap
+*.zip
+*.7z
+*.exe
+*.dll
+.DS_Store
+Thumbs.db
